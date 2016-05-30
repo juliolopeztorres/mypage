@@ -1,2 +1,3 @@
-# mypage
-Personal Page with GitHub Pages
+# Welcome Page
+
+Personal Page with GitHub Pages.
